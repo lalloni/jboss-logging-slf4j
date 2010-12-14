@@ -2,7 +2,7 @@
  * Author: Pablo Lalloni <plalloni@gmail.com>
  * Created: 07/12/2010 18:05:10
  */
-package afip.dit.common.jboss.logging;
+package org.lalloni.jboss.logging.slf4j;
 
 import static org.slf4j.spi.LocationAwareLogger.DEBUG_INT;
 import static org.slf4j.spi.LocationAwareLogger.ERROR_INT;
@@ -20,10 +20,6 @@ import org.slf4j.LoggerFactory;
 import org.slf4j.MDC;
 import org.slf4j.spi.LocationAwareLogger;
 
-/**
- * @author Pablo Lalloni <plalloni@gmail.com>
- * @since 07/12/2010 18:05:10
- */
 public class SLF4JLoggerPlugin implements LoggerPlugin, MDCSupport {
 
     private static final MDCProvider mdc = new MDCProvider() {
@@ -44,6 +40,7 @@ public class SLF4JLoggerPlugin implements LoggerPlugin, MDCSupport {
         }
 
         @Override
+        @SuppressWarnings("unchecked")
         public Map<String, Object> getMap() {
             return MDC.getCopyOfContextMap();
         }
