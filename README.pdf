@@ -1,0 +1,832 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R
+ /F4 5 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Times-Roman
+<< /BaseFont /Times-Roman
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+5 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 16 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 17 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 15 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R8': class PDFCatalog 
+8 0 obj
+% Document Root
+<< /Outlines 10 0 R
+ /PageLabels 18 0 R
+ /PageMode /UseNone
+ /Pages 15 0 R
+ /Type /Catalog >>
+endobj
+% 'R9': class PDFInfo 
+9 0 obj
+<< /Author ()
+ /CreationDate (D:20101215145506+03'00')
+ /Keywords ()
+ /Producer (ReportLab http://www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Instalaci\363n de LogBack 0.9.26 en JBoss 5.1.0 GA en reemplazo de Log4J) >>
+endobj
+% 'R10': class PDFOutlines 
+10 0 obj
+<< /Count 4
+ /First 11 0 R
+ /Last 14 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+11 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 705.0236
+ 0 ]
+ /Next 12 0 R
+ /Parent 10 0 R
+ /Title (Convenciones) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+12 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 612.0236
+ 0 ]
+ /Next 13 0 R
+ /Parent 10 0 R
+ /Prev 11 0 R
+ /Title (Instalaci\363n) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+13 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 369.0236
+ 0 ]
+ /Next 14 0 R
+ /Parent 10 0 R
+ /Prev 12 0 R
+ /Title (Configuraci\363n) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+14 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 473.5693
+ 0 ]
+ /Parent 10 0 R
+ /Prev 13 0 R
+ /Title (Ejecuci\363n) >>
+endobj
+% 'R15': class PDFPages 
+15 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 6 0 R
+ 7 0 R ]
+ /Type /Pages >>
+endobj
+% 'R16': class PDFStream 
+16 0 obj
+% page stream
+<< /Length 8285 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+BT 1 0 0 1 0 33.64 Tm 2.624882 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Instalaci\363n de LogBack 0.9.26 en JBoss 5.1.0 GA) Tj T* 121.73 0 Td (en reemplazo de Log4J) Tj T* -124.3549 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Convenciones) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (La ubicaci\363n de la instalaci\363n de JBoss se referenciar\341 como JBOSS_HOME) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.200751 Tw (La ubicaci\363n de la instancia de JBoss usada se referenciar\341 como SERVER_HOME \(por ejemplo) Tj T* 0 Tw (SERVER_HOME=$JBOSS_HOME/server/default\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Instalaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (De la distribuci\363n de LogBack copiar a $JBOSS_HOME/lib los siguientes archivos:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (logback-core-0.9.26.jar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (logback-classic-0.9.26.jar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (De la distribuci\363n de SLF4J 1.6.1 copiar a $JBOSS_HOME/lib los siguentes archivos:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+Q
+q
+1 0 0 1 62.69291 489.0236 cm
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (slf4j-api-1.6.1.jar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (log4j-over-slf4j-1.6.1.jar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (jcl-over-slf4j-1.6.1.jar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (jul-to-slf4j-1.6.1.jar) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Copiar jboss-logging-slf4j-1.jar a $JBOSS_HOME/lib) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+Q
+q
+1 0 0 1 62.69291 348.0236 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Configuraci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+Q
+q
+1 0 0 1 62.69291 197.7092 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 123.3144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 111.3144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 32.79996 Tw (Reemplazar bridge JUL-Log4J por bridge JUL-SLF4J en) Tj T* 0 Tw ($SERVER_HOME/conf/bootstrap/logging.xml:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 93.31441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Reemplazar la l\355nea:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 61.31266 cm
+q
+q
+.95245 0 0 .95245 0 0 cm
+q
+1 0 0 1 6.6 6.929494 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468 24 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (<) Tj (bean name="LogBridgeHandler" class="org.jboss.logbridge.LogBridgeHandler"/) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 35.31266 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Por:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+q
+.964788 0 0 .964788 0 0 cm
+q
+1 0 0 1 6.6 6.840882 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 462 24 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (<) Tj (bean name="LogBridgeHandler" class="org.slf4j.bridge.SLF4JBridgeHandler"/) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 197.7092 cm
+Q
+q
+1 0 0 1 62.69291 197.7092 cm
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+q
+1 0 0 1 6 105.8431 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 105.8431 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Configurar LogBack) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 87.84307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Configurar LogBack en archivo $SERVER_HOME/conf/logback.xml.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 57.84307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 1.628555 Tw (A modo de ejemplo, se transcribe una configuraci\363n de LogBack que simula la configuraci\363n de) Tj T* 0 Tw (Log4J que trae JBoss mas algunos detalles posibles en LogBack para mostrar excepciones:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 6.094322 cm
+q
+q
+.889202 0 0 .889202 0 0 cm
+q
+1 0 0 1 6.6 7.422383 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 498 48 re B*
+Q
+q
+BT 1 0 0 1 0 29.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (<) Tj (?xml version="1.0" encoding="UTF-8"?) Tj (>) Tj  T* (<) Tj (configuration debug="false" scan="true" scanPeriod="30 seconds") Tj (>) Tj  T* (   ) Tj (<) Tj (appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender") Tj (>) Tj  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R17': class PDFStream 
+17 0 obj
+% page stream
+<< /Length 4176 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 -58.8622 485.5693 cm
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 266.4543 Tm  T* ET
+q
+1 0 0 1 23 3 cm
+q
+q
+.631243 0 0 .631243 0 0 cm
+q
+1 0 0 1 6.6 10.45557 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 702 432 re B*
+Q
+q
+BT 1 0 0 1 0 413.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (      ) Tj (<) Tj (file) Tj (>) Tj (${jboss.server.log.dir}/server.log) Tj (<) Tj (/file) Tj (>) Tj  T* (      ) Tj (<) Tj (append) Tj (>) Tj (true) Tj (<) Tj (/append) Tj (>) Tj  T* (      ) Tj (<) Tj (rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy") Tj (>) Tj  T* (         ) Tj (<) Tj (fileNamePattern) Tj (>) Tj (${jboss.server.log.dir}/server.%d.log) Tj (<) Tj (/fileNamePattern) Tj (>) Tj  T* (         ) Tj (<) Tj (maxHistory) Tj (>) Tj (30) Tj (<) Tj (/maxHistory) Tj (>) Tj  T* (      ) Tj (<) Tj (/rollingPolicy) Tj (>) Tj  T* (      ) Tj (<) Tj (encoder) Tj (>) Tj  T* (        ) Tj (<) Tj (pattern) Tj (>) Tj (%contextName %date %-5level \\\(%thread\\\) [%logger{20}] %message %mdc %xThrowable{full} %n) Tj (<) Tj (/pattern) Tj (>) Tj  T* (        ) Tj (<) Tj (!--) Tj (<) Tj (pattern) Tj (>) Tj (%d %-5p [%c] \\\(%t\\\) %m%n) Tj (<) Tj (/pattern) Tj (>) Tj (--) Tj (>) Tj  T* (      ) Tj (<) Tj (/encoder) Tj (>) Tj  T* (   ) Tj (<) Tj (/appender) Tj (>) Tj  T* (   ) Tj (<) Tj (appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender") Tj (>) Tj  T* (      ) Tj (<) Tj (encoder) Tj (>) Tj  T* (        ) Tj (<) Tj (pattern) Tj (>) Tj (%contextName %date %-5level \\\(%thread\\\) [%logger{20}] %message %mdc %xThrowable{full} %n) Tj (<) Tj (/pattern) Tj (>) Tj  T* (      ) Tj (<) Tj (/encoder) Tj (>) Tj  T* (   ) Tj (<) Tj (/appender) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="org.apache" level="INFO"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="jacorb" level="WARN"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="javax.enterprise.resource.webcontainer.jsf" level="INFO"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="org.jgroups" level="WARN"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="org.quartz" level="INFO"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="com.sun" level="INFO"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="sun" level="INFO"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="javax.xml.bind" level="INFO"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="org.jboss.management" level="INFO"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="facelets.compiler" level="WARN"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="org.ajax4jsf.cache" level="WARN"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="org.rhq" level="WARN"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="org.jboss.seam" level="WARN"/) Tj (>) Tj  T* (   ) Tj (<) Tj (logger name="org.jboss.serial" level="INFO"/) Tj (>) Tj  T* (   ) Tj (<) Tj (root level="INFO") Tj (>) Tj  T* (      ) Tj (<) Tj (appender-ref ref="CONSOLE"/) Tj (>) Tj  T* (      ) Tj (<) Tj (appender-ref ref="FILE"/) Tj (>) Tj  T* (   ) Tj (<) Tj (/root) Tj (>) Tj  T* (<) Tj (/configuration) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 485.5693 cm
+Q
+q
+1 0 0 1 62.69291 485.5693 cm
+Q
+q
+1 0 0 1 62.69291 452.5693 cm
+q
+BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Ejecuci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 434.5693 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (En un shell:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 305.8546 cm
+q
+q
+.831369 0 0 .831369 0 0 cm
+q
+1 0 0 1 6.6 7.938713 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 564 144 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 125.71 Tm /F4 10 Tf 12 TL ($ cd $JBOSS_HOME) Tj T* ($ bin/run.sh -b 0.0.0.0 \\) Tj T* (  -L logback-core-0.9.26.jar \\) Tj T* (  -L logback-classic-0.9.26.jar \\) Tj T* (  -L jboss-logging-slf4j-1-SNAPSHOT.jar \\) Tj T* (  -L slf4j-api-1.6.1.jar \\) Tj T* (  -L log4j-over-slf4j-1.6.1.jar \\) Tj T* (  -L jcl-over-slf4j-1.6.1.jar \\) Tj T* (  -L jul-to-slf4j-1.6.1.jar \\) Tj T* (  -Dorg.jboss.logging.Logger.pluginClass=org.lalloni.jboss.logging.slf4j.SLF4JLoggerPlugin \\) Tj T* (  -Dlogback.configurationFile="$SERVER_HOME/conf/logback.xml") Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R18': class PDFPageLabels 
+18 0 obj
+% Document Root
+<< /Nums [ 0
+ 19 0 R
+ 1
+ 20 0 R ] >>
+endobj
+% 'R19': class PDFPageLabel 
+19 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R20': class PDFPageLabel 
+20 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 21
+0000000000 65535 f
+0000000113 00000 n
+0000000245 00000 n
+0000000410 00000 n
+0000000585 00000 n
+0000000754 00000 n
+0000000913 00000 n
+0000001192 00000 n
+0000001471 00000 n
+0000001628 00000 n
+0000001911 00000 n
+0000002036 00000 n
+0000002208 00000 n
+0000002397 00000 n
+0000002588 00000 n
+0000002744 00000 n
+0000002859 00000 n
+0000011245 00000 n
+0000015526 00000 n
+0000015632 00000 n
+0000015709 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\317p\206\227\351L\323\201\325k!x\\,\273\202) (\317p\206\227\351L\323\201\325k!x\\,\273\202)] 
+
+ /Info 9 0 R
+ /Root 8 0 R
+ /Size 21 >>
+startxref
+15756
+%%EOF
