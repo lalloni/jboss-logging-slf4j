@@ -33,13 +33,9 @@ Instalación
  - jcl-over-slf4j-1.6.1.jar
  - jul-to-slf4j-1.6.1.jar
 
-3. Crear un jar de jboss-logging-slf4j construyendo con Maven el mismo.
+3. Descargar jboss-logging-slf4j-1.jar_
 
-   En $PROJECT ejecutar::
-
-     $ mvn package
-
-4. Copiar $PROJECT/target/jboss-logging-slf4j-1.jar a $JBOSS_HOME/lib.
+4. Copiar el archivo descargado en el paso anterior a $JBOSS_HOME/lib.
   
 Configuración
 ~~~~~~~~~~~~~
@@ -121,3 +117,5 @@ En un shell::
       -L jul-to-slf4j-1.6.1.jar \
       -Dorg.jboss.logging.Logger.pluginClass=org.lalloni.jboss.logging.slf4j.SLF4JLoggerPlugin \
       -Dlogback.configurationFile="$SERVER_HOME/conf/logback.xml"
+
+.. _jboss-logging-slf4j-1.jar: https://github.com/downloads/plalloni/jboss-logging-slf4j/jboss-logging-slf4j-1.jar
