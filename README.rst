@@ -14,6 +14,7 @@ Convenciones
 * La ubicación de la instalación de JBoss se referenciará como JBOSS_HOME
 * La ubicación de la instancia de JBoss usada se referenciará como SERVER_HOME 
   (por ejemplo SERVER_HOME=$JBOSS_HOME/server/default)
+* La ubicación del proyecto jboss-logging-slf4j se referenciará como PROJECT 
 
 Instalación
 ~~~~~~~~~~~
@@ -32,21 +33,31 @@ Instalación
  - jcl-over-slf4j-1.6.1.jar
  - jul-to-slf4j-1.6.1.jar
 
-3. Copiar jboss-logging-slf4j-1.jar a $JBOSS_HOME/lib
+3. Crear un jar de jboss-logging-slf4j construyendo con Maven el mismo.
+
+   En $PROJECT ejecutar::
+
+     $ mvn package
+
+4. Copiar $PROJECT/target/jboss-logging-slf4j-1.jar a $JBOSS_HOME/lib.
   
 Configuración
 ~~~~~~~~~~~~~
 
 #. Reemplazar bridge JUL-Log4J por bridge JUL-SLF4J en 
-   $SERVER_HOME/conf/bootstrap/logging.xml:
+   $SERVER_HOME/conf/bootstrap/logging.xml siguiendo estos pasos:
 
-   Reemplazar la línea::
+   #. Reemplazar la línea::
 
-     <bean name="LogBridgeHandler" class="org.jboss.logbridge.LogBridgeHandler"/>
+        <bean name="LogBridgeHandler" class="org.jboss.logbridge.LogBridgeHandler"/>
     
-   Por::
+   #. Por::
 
-     <bean name="LogBridgeHandler" class="org.slf4j.bridge.SLF4JBridgeHandler"/>
+        <bean name="LogBridgeHandler" class="org.slf4j.bridge.SLF4JBridgeHandler"/>
+        
+#. Eliminar o comentar en la sección "Log4j Initialization" del archivo 
+   $SERVER_HOME/conf/jboss-service.xml el MBean cuyo name es 
+   "jboss.system:type=Log4jService,service=Logging"
 
 #. Configurar LogBack
 
