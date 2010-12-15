@@ -1,21 +1,31 @@
-Instalación de LogBack 0.9.26 en JBoss 5.1.0 GA en reemplazo de Log4J
-=====================================================================
+JBoss: Reemplazo de Log4J por LogBack
+=====================================
+
+Supuestos
+~~~~~~~~~
+
+* Se utiliza la distribución de LogBack versión 0.9.26
+* Se utiliza la distribución de SLF4J versión 1.6.1
+* Se tiene instalado JBoss versión 5.1.0 GA
 
 Convenciones
 ~~~~~~~~~~~~
 
 * La ubicación de la instalación de JBoss se referenciará como JBOSS_HOME
-* La ubicación de la instancia de JBoss usada se referenciará como SERVER_HOME (por ejemplo SERVER_HOME=$JBOSS_HOME/server/default)
+* La ubicación de la instancia de JBoss usada se referenciará como SERVER_HOME 
+  (por ejemplo SERVER_HOME=$JBOSS_HOME/server/default)
 
 Instalación
 ~~~~~~~~~~~
 
-1. De la distribución de LogBack copiar a $JBOSS_HOME/lib los siguientes archivos:
+1. De la distribución de LogBack copiar a $JBOSS_HOME/lib los siguientes 
+   archivos:
 
  - logback-core-0.9.26.jar 
  - logback-classic-0.9.26.jar
 
-2. De la distribución de SLF4J 1.6.1 copiar a $JBOSS_HOME/lib los siguentes archivos:
+2. De la distribución de SLF4J 1.6.1 copiar a $JBOSS_HOME/lib los siguentes 
+   archivos:
 
  - slf4j-api-1.6.1.jar
  - log4j-over-slf4j-1.6.1.jar
@@ -27,7 +37,8 @@ Instalación
 Configuración
 ~~~~~~~~~~~~~
 
-#. Reemplazar bridge JUL-Log4J por bridge JUL-SLF4J en $SERVER_HOME/conf/bootstrap/logging.xml:
+#. Reemplazar bridge JUL-Log4J por bridge JUL-SLF4J en 
+   $SERVER_HOME/conf/bootstrap/logging.xml:
 
    Reemplazar la línea::
 
