@@ -5,7 +5,7 @@
     
     <groupId>ar.lalloni.pablo</groupId>
     <artifactId>jboss-logging-slf4j</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>1</version>
     
     <build>
         <plugins>
