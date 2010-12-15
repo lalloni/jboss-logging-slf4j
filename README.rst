@@ -67,7 +67,6 @@ Configuración
               </rollingPolicy>
               <encoder>
                 <pattern>%contextName %date %-5level \(%thread\) [%logger{20}] %message %mdc %xThrowable{full} %n</pattern>
-                <!--<pattern>%d %-5p [%c] \(%t\) %m%n</pattern>-->
               </encoder>
            </appender>
            <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
